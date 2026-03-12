@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ＡＴ アイリッド",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-03-12T19:57:17.790019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All at Sea",
+      "artist": "The Longest Johns",
+      "has_synced": false,
+      "path": "select/01_All_at_Sea_The_Longest_Johns.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young feat. Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/02_At_the_End_of_a_Bar_Chris_Young_feat._Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/03_At_the_End_of_a_Bar_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look At The Mess I'm In",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/04_Look_At_The_Mess_I'm_In_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She Had Me At Heads Carolina",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/05_She_Had_Me_At_Heads_Carolina_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where the Country Girls At",
+      "artist": "Trace Adkins feat. Luke Bryan & Pitbull",
+      "has_synced": true,
+      "path": "select/06_Where_the_Country_Girls_At_Trace_Adkins_feat._Luke_Bryan_&_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where the Country Girls At",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/07_Where_the_Country_Girls_At_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Creep (Hungover at Soundcheck in Berlin)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/08_Creep_(Hungover_at_Soundcheck_in_Berlin)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/09_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/10_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Boy Named Sue (Live at San Quentin State Prison, San Quentin, CA  - February 1969)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/11_A_Boy_Named_Sue_(Live_at_San_Quentin_State_Prison,_San_Quentin,_CA_-_February_19_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "At My Window",
+      "artist": "Townes Van Zandt",
+      "has_synced": true,
+      "path": "select/12_At_My_Window_Townes_Van_Zandt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Baby's_Gotten_Good_At_Goodbye_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Baby's_Gotten_Good_At_Goodbye_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_Baby's_Gotten_Good_At_Goodbye_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/16_Baby's_Gotten_Good_At_Goodbye_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back at One",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/17_Back_at_One_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Back At One (Album Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/18_Back_At_One_(Album_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AT アイリッド",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_AT_アイリッド_クリープハイプ.txt"
+    }
+  ]
+}
